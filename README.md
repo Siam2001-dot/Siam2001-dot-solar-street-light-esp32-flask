@@ -7,4 +7,4 @@ ESP32 + LDR sensor based automatic street light with Flask monitoring backend.
 - `flask-server/` — Python Flask backend for logging/monitoring
 
 ## How it works
-Full write-up here: [তোমার dev.to article link এখানে বসাবে]
+Full write-up here: [Read the article on dev.to](YOUR_DEVTO_LINK)
